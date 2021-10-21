@@ -1,0 +1,37 @@
+Important VSCode Extension:
+---------------------------
+
+:emojisense:
+Auto Rename Tag
+Babel JavaScript
+Beautify
+Bracket Pair Colorizer
+Cobolt2 Theme Official
+CodeSnap
+Colorize
+Dash
+EJS language support
+Emmet JSS
+Emmet Live
+Emoji
+ES7 React/Redux/GraphQL/React-Native snippets
+Excel Viewer
+HTML Boilerplate
+HTML CSS Support
+HTML snippets
+Image preview
+IntelliSense for CSS class names in HTML
+JS & CSS Minifier (Minify)
+JS CodeFormer: JavaScript Refactoring & Code Automation
+Live Server
+Palenight Theme
+Path IntelliSense
+Polacode
+Prettier - Code formatter
+Prettier for Handlebars
+Quokka.js
+Thunder Client
+Visual Studio IntelliCode
+vscode-icons
+
+Edit in package.json to work all perfect
