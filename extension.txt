@@ -35,3 +35,11 @@ Visual Studio IntelliCode
 vscode-icons
 
 Edit in package.json to work all perfect
+
+For semicolon, single quote edit here
+
+format on save. 
+
+set default code formattor to prettier
+
+set trailing comma to none.
