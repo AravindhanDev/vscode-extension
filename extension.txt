@@ -34,12 +34,31 @@ Thunder Client
 Visual Studio IntelliCode
 vscode-icons
 
-Edit in package.json to work all perfect
+Select format on save 
 
-For semicolon, single quote edit here
+defaultFormatter is prettier.
 
-format on save. 
+These are must be in settings.json file.
 
-set default code formattor to prettier
-
-set trailing comma to none.
+{
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.colorTheme": "Cobalt2",
+	"prettier.useTabs": true,
+	"prettier.withNodeModules": true,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"emmet.preferences": {},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"ejs": "html",
+		"html": "html"
+	},
+	"prettier.trailingComma": "none",
+	"editor.fontSize": 16,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"files.associations": {
+		"\"*.ejs\"": "\"html\""
+	}
+}
